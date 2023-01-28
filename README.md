@@ -2,4 +2,4 @@
 For anyone wanting to make an intermediate-coded game easily, this should give some ideas.
 Make sure You space it when pasting this. Works for NotePad++,Notepad and VScode.
 if you want to see it in action, go to my profile and click the website link, then go to "Bored?Play a game!" tab.
-Website here:https://appleproducts.w3schools.com
+Website here:https://appleproducts12345.w3schools.com
